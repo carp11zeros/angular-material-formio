@@ -13,7 +13,7 @@ Run `ng build angular-material-formio` to build the project. The build artifacts
 
 ## Publishing
 
-After building your library with `ng build angular-material-formio`, go to the dist folder `cd dist/angular-material-formio` and run `npm publish`.
+After building your library with `ng build angular-material-formio`, go to the dist folder `cd dist/angular-material-formio` and run `npm publish --access public``.
 
 ## Running unit tests
 

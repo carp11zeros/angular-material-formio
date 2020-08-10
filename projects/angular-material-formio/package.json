@@ -1,6 +1,9 @@
 {
-  "name": "angular-material-formio",
+  "name": "@carp11zeros/angular-material-formio",
   "version": "1.22.0",
+  "repository": {
+    "url": "https://github.com/carp11zeros/angular-material-formio.git"
+  },
   "peerDependencies": {
     "@angular/cdk": "^9.2.1",
     "@angular/common": "^9.1.4",

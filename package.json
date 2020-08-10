@@ -1,6 +1,9 @@
 {
   "name": "angular-material-formio",
   "version": "1.22.0",
+  "repository": {
+    "url": "https://github.com/carp11zeros/angular-material-formio.git"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
