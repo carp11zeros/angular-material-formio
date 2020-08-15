@@ -1,6 +1,6 @@
 {
   "name": "@carp11zeros/angular-material-formio",
-  "version": "1.22.0",
+  "version": "1.22.2",
   "repository": {
     "url": "https://github.com/carp11zeros/angular-material-formio.git"
   },
@@ -10,9 +10,7 @@
     "@angular/core": "^9.1.4",
     "@angular/flex-layout": "^9.0.0-beta.29",
     "@angular/forms": "^9.1.4",
-    "@angular/material": "^9.2.1"
-  },
-  "dependencies": {
+    "@angular/material": "^9.2.1",
     "angular-formio": "^4.7.8",
     "formiojs": "^4.9.22"
   }
